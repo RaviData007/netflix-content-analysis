@@ -16,8 +16,8 @@ An end-to-end data analytics project analysing **8,807 Netflix titles** (2008–
 
 - **69.6%** of the catalog is Movies — but TV Show growth rate overtook Movies after 2016
 - **TV-MA** dominates ratings at **36%** of all titles — the catalog skews heavily toward mature content
-- **United States** produces **36%** of all Netflix content; India is the second largest at 11%
-- **October** is the peak month for new content additions — nearly 3× more titles than January
+- **United States** produces **34%** of all Netflix content; India is the second largest at 9.6%
+- **June** is the peak month for new content additions — nearly 3× more titles than January
 - Average movie duration has barely shifted in 13 years — consistently around **99 minutes**
 - International TV Shows and Dramas are the largest genre categories with 2,400+ titles each
 
