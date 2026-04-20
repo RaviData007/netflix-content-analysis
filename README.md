@@ -159,8 +159,6 @@ This produces `netflix_clean.csv`, `netflix_genres.csv`, and `netflix_countries.
 | Map — content by country | ![Map](screenshots/map.png) |
 | Genres bar chart | ![Bar Chart](screenshots/bar_chart.png) |
 
-> Screenshots folder: `screenshots/` — add your own after exporting from Power BI.
-
 ---
 
 ## Dataset
