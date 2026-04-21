@@ -193,7 +193,7 @@ This produces `netflix_clean.csv`, `netflix_genres.csv`, and `netflix_countries.
 ## Author
 
 **Ravi Parmar**  
-[LinkedIn](https://www.linkedin.com/in/ravi-parmar-25836636) · [GitHub](https://github.com/RaviData007) · [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/raviparmar05) · [GitHub](https://github.com/RaviData007) · [Portfolio](https://yourportfolio.com)
 
 ---
 
